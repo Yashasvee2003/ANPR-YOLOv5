@@ -13,3 +13,7 @@ This can be used to design an end-to-end system that detects faces and number pl
 - Run it!
 
 NOTE : we use detect-1.py which is a modified version of detect.py which crops out the images within bounding boxes.
+
+## Authors
+- [@Yashasvee2003](https://github.com/Yashasvee2003)
+- [@Ojus999](https://github.com/Ojus999)
